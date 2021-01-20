@@ -1,6 +1,6 @@
 
 ## Falling star
-Slutprojekt iJavaScript grundkurs 60yhp. Januari 2021. 
+Slutprojekt i JavaScript grundkurs 60yhp. Januari 2021. 
 
 # Spelbeskrivning
 Willow är en liten tjej som precis tappat bort sin käraste ägodel, sitt favoritgosedjur. Hon måste nu fånga stjärnorna som faller för att hennes önskan om att få tillbaka sitt gosedjur ska slå in. ​ ​
